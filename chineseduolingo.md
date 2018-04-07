@@ -1,11 +1,13 @@
-#Lesson 1 （greeting 1）：
+# Lesson 1 （greeting 1）：
 -	你 - nǐ: you
 -	好 - hǎo: good
 -	再见 - zàijiàn: see you later
-#Lesson 2 （numbers）:
+
+# Lesson 2 （numbers）:
 -	一， 二， 三， 四， 五， 六， 七， 八， 九， 十
 -	百， 零 - yī, èr, sān, sì, wǔ, liù, qī, bā, jiǔ, shí, bǎi, líng
-#Lesson 3 （name）：
+
+# Lesson 3 （name）：
 -	叫 - jiào: to be called (a name)
 -	我 - wǒ: I, me
 -	明 - míng: in this context, a surname
@@ -17,12 +19,14 @@
 -	王 - wáng: another surname
 -	你呢 - nǐne: what about you?
 -	李 - lǐ: another surname
-#Lesson 4 （greeting 2）：
+
+# Lesson 4 （greeting 2）：
 -	很 - hěn: very (also can "is" for e.g. adjectives)
 -	高兴 - gāoxìng: happy
 -	认识 - rènshi: to know e.g sb.
 -	也 - yě: also
-#Lesson 5 （food 1）：
+
+# Lesson 5 （food 1）：
 -	吃 - chī: to eats
 -	饭 - fàn: food
 -	鱼 - yǔ (actually ü): fish
@@ -31,7 +35,8 @@
 -	水 - shuǐ: water
 -	茶 - chá: tea
 -	不 - bù/bú: not
-#Lesson 6 （occupation）：
+
+# Lesson 6 （occupation）：
 -	是 - shì: is
 -	他 - tā: he
 -	学生 - xuésheng: student
@@ -44,12 +49,14 @@
 -	老师 - lǎoshī: teacher/Master
 -	医生 - yīshēng: doctor
 -
-#Lesson 7 （contact）：
+
+# Lesson 7 （contact）：
 -	的 - de: particle (e.g. possesive)
 -	电话 - diànhuà: telephone
 -	号码 - hàomǎ: number (so 电话号码 means "phone number")
 -	多少 - duōshǎo: how much(?)
-#Lesson 8 （nation）：
+
+# Lesson 8 （nation）：
 -	中国 - zhōngguó: China
 -	人 - rén: person
 -	哪 - nǎ: what, which, who?
@@ -58,12 +65,14 @@
 -	都 - dōu: all
 -	对 - duì: correct, right
 -	加拿大 - jiānádà: Canada
-#Lesson 9 （greeting 3）：
+
+# Lesson 9 （greeting 3）：
 -	忙 - máng: busy
 -	早上 - zǎoshang: good morning!
 -	怎么样 - zěnmeyàng: how (e.g are you)?
 -	今天 - jīntiān: today
-#Lesson 10 （location 1）：
+
+# Lesson 10 （location 1）：
 -	家 - jiā: home, house
 -	北京 - běijīng: Beijing
 -	在 - zài: is at, on, currently doing, etc...
@@ -74,13 +83,15 @@
 -	住 - zhù: to live (e.g. in a place)
 -	伦敦 - lúndūn: London
 -	台湾 - 
-#Lesson 11 （phrases 1）：
+
+# Lesson 11 （phrases 1）：
 -	谢谢
 -	不客气
 -	对不起
 -	没关系
 -	我爱我的
-#Lesson 12 （family 1）：
+
+# Lesson 12 （family 1）：
 -	爸爸
 -	妈妈
 -	爱
@@ -96,7 +107,8 @@
 -	妹妹
 -	没
 -	和
-#Lesson 13 （phrases 2）：
+
+# Lesson 13 （phrases 2）：
 -	请问
 -	知道
 -	问
@@ -105,7 +117,8 @@
 -	汉语
 -	一次
 -	帮助
-#Lesson 14 （greeting 4）：
+
+# Lesson 14 （greeting 4）：
 -	早安
 -	晚安
 -	一会儿
@@ -115,20 +128,23 @@
 -	不错
 -	好久不见
 -	最近
-#Lesson 15 （drink）：
+
+# Lesson 15 （drink）：
 -	热
 -	冰
 -	要
 -	牛奶
 -	咖啡
 -	冰箱
-#Lesson 16 （Location 2）：
+
+# Lesson 16 （Location 2）：
 -	洗手间
 -	医院
 -	这儿
 -	那儿
 -	饭馆
-#Lesson 17 （time 1）：
+
+# Lesson 17 （time 1）：
 -	一月
 -	年
 -	几
@@ -136,7 +152,8 @@
 -	〇
 -	明天
 -	星期（一， 二， 。。。， 六，日）
-#Lesson 18 （family 2）：
+
+# Lesson 18 （family 2）：
 -	孩子
 -	两
 -	女儿
@@ -147,14 +164,16 @@
 -	猫
 -	狗
 -	它
-#Lesson 19 （telephone）：
+
+# Lesson 19 （telephone）：
 -	一点儿
 -	慢
 -	喂
 -	快
 -	明白
 -	得
-#Lesson 20 （People 1）：
+
+# Lesson 20 （People 1）：
 -	高
 -	漂亮
 -	朋友
@@ -163,7 +182,8 @@
 -	女
 -	可爱
 -	非常
-#Lesson 21 （time 2）：
+
+# Lesson 21 （time 2）：
 -	上午
 -	分
 -	下午
@@ -181,7 +201,8 @@
 -	明年
 -	下
 -	会
-#Lesson 22 （Location 3）：
+
+# Lesson 22 （Location 3）：
 -	旁边
 -	左边
 -	右边
@@ -197,7 +218,8 @@
 -	那里
 -	往
 -	到...怎么走?
-#Lesson 23 （Hobbies 1）：
+
+# Lesson 23 （Hobbies 1）：
 -	喜欢
 -	看
 -	书
@@ -210,7 +232,8 @@
 -	音乐
 -	唱
 -	跳舞
-#Lesson 24 （Daily routine 1）：
+
+# Lesson 24 （Daily routine 1）：
 -	上学
 -	早饭
 -	起床
@@ -223,7 +246,8 @@
 -	下班
 -	回
 -	晚饭
-#Lesson 25 （payment）：	
+
+# Lesson 25 （payment）：	
 -	钱
 -	块
 -	只
@@ -241,7 +265,8 @@
 -	万
 -	行
 -	了
-#Lesson 26 （entertainment）：
+
+# Lesson 26 （entertainment）：
 -	想
 -	干
 -	电影
@@ -253,7 +278,8 @@
 -	新闻
 -	明星
 -	体育 节目
-#Lesson 27: （Location 4）：
+
+# Lesson 27: （Location 4）：
 -	桌
 -	找
 -	椅
@@ -263,7 +289,8 @@
 -	房间
 -	洗手间
 -	箱
-#Lesson 28: （restaurant）：
+
+# Lesson 28: （restaurant）：
 -	位
 -	进
 -	等
@@ -275,7 +302,8 @@
 -	服务员
 -	订
 -
-#Lesson 29: (supermarket):
+
+# Lesson 29: (supermarket):
 -	西
 -	些
 -	东
@@ -300,9 +328,9 @@
 -	米
 -	面包
 -	蔬菜
--
 -	到...怎么走?
-#Lesson 30: (hobbies):
+
+# Lesson 30: (hobbies):
 -	学习
 -	为
 -	文
@@ -321,7 +349,8 @@
 -	印度
 -	照相机
 -	拍照
-#Lesson 31: (Dining):
+
+# Lesson 31: (Dining):
 -	日本
 -	还是
 -	上海
@@ -332,7 +361,8 @@
 -	羊
 -	猪
 -	想要
-#Lesson 32: （health 1):
+
+# Lesson 32: （health 1):
 -	累
 -	工作
 -	得
@@ -346,7 +376,8 @@
 -	身体
 -	开始
 -	锻炼
-#Lesson 33: (Transportation):
+
+# Lesson 33: (Transportation):
 -	地铁
 -	酒店
 -	准
@@ -360,7 +391,8 @@
 -	公
 -	船
 -	公共汽车
-#Lesson 34 (Shopping):
+
+# Lesson 34 (Shopping):
 -	商店
 -	(件)衣服
 -	门
@@ -370,13 +402,15 @@
 -	需，需要
 -	您
 -	随便
-#Lesson 35 (Language):
+
+# Lesson 35 (Language):
 -	读
 -	字
 -	意思
 -	难
 -	写
-#Lesson 36 (Time 3):
+
+# Lesson 36 (Time 3):
 -	差。。。刻／分（到）。。。点
 -	秒
 -	钟
@@ -384,7 +418,8 @@
 -	小时
 -	等
 -	整
-#Lesson 37 (Dining 2):
+
+# Lesson 37 (Dining 2):
 -	德， 德国
 -	啤酒
 -	杯（子）
@@ -398,7 +433,8 @@
 -	筷（子）
 -	叉
 -	（子）
-#Lesson 38 (Existence):
+
+# Lesson 38 (Existence):
 -	办公室
 -	辆 (车 class.)
 -	（一）张（照片）
@@ -406,7 +442,8 @@
 -	一只
 -	树
 -	鸟
-#Lesson 39 （Sports）：
+
+# Lesson 39 （Sports）：
 -	（verb 了 duration 的 object）
 -	跑步 paobu jog
 -	游泳 youyong swim
@@ -417,7 +454,8 @@
 -   	运动 yundong exercise
 -   	骑马 qima ride horse
 -   	两次 twice
-#Lesson 40: (invite 1):
+
+# Lesson 40: (invite 1):
 -	吧
 -	时间
 -	什么时候
@@ -434,7 +472,8 @@
 -	告诉
 -	打电话
 -	约会
-#Lesson 41: (Health 2):
+
+# Lesson 41: (Health 2):
 -	舒服
 -	应该 （see: 孩）
 -	生病
@@ -449,7 +488,8 @@
 -	别
 -	请假
 -	发烧
-#Lesson 42: (invite 2):
+
+# Lesson 42: (invite 2):
 -	在 as action in progress, 正在 as RIGHT NOW
 -	派对
 -	能
@@ -463,7 +503,8 @@
 -	才
 -	一件事情
 -	很多
-#Lesson 43: (Dining 3):
+
+# Lesson 43: (Dining 3):
 -	(just a note: 
 -		太...了， 真， 非常，很，最，。。。)
 -	完：put it after verb (optionally before 了) to indicate that 
@@ -483,7 +524,8 @@
 -	甜点
 -   （一块）巧克力
 -	味道 （the flavour way)
-#Lesson 44 （shopping 2）:
+
+# Lesson 44 （shopping 2）:
 -	X比YZ （"X is more Z than Y")
 -	试 (试一下，try)
 -	条 （cl. for long thin things, listables, bar-shaped things...)
@@ -497,7 +539,8 @@
 -	比
 -	裤子
 -	质量
-#Lesson 45 （Body parts）：
+
+# Lesson 45 （Body parts）：
 -	又。。。又。。。： both X and Y
 -	眼睛
 -	耳朵
@@ -509,7 +552,8 @@
 -	手
 -	脚
 -	鼻子
-#Lesson 46 (travel):
+
+# Lesson 46 (travel):
 -	A离B（ADV）远／近
 -	从 VS 离：former = movement, asymmetric, latter = static, symmetric
 -	走路
@@ -523,7 +567,8 @@
 -	办
 -	迟
 -	让
-#Lesson 47 (Weather):
+
+# Lesson 47 (Weather):
 -	快要: new situation! something new is about to happen!
 -	着: after verb = "in progress", often 正在。。。着
 -	如果。。。就.. = “if...then...""
@@ -541,7 +586,8 @@
 -	可能
 -	从来
 -	里面，外面
-#Lesson 48 (Shopping 3):
+
+# Lesson 48 (Shopping 3):
 -	(subj.)虽然X但是(subj.)Y （also 可是）(although X, Y...)
 -	长
 -	短
@@ -557,7 +603,8 @@
 -	卖完？
 -	帽
 -	紫
-#Lesson 49 (People 2):
+
+# Lesson 49 (People 2):
 -	Grammar pattern of the day:
 -		不但。。。而且 （bùdàn X, érqiě Y)
 -	This is how you express "not only X, but also Y"
@@ -571,7 +618,8 @@
 -	聪明 - cōngmíng: "smart"
 -	别人 - biérén: "other people"
 -	reminder that 会 can mean "has the skill of"
-#Lesson 50 (Ce-le-bra-tion!):
+
+# Lesson 50 (Ce-le-bra-tion!):
 -	A cultural aside about the correct terminology for white wine:
 -	generically, 酒 means "wine". for instance, 红酒 means "red wine".
 -	白酒, otoh, refers to a certain kind of chinese spirit, unless the context is obviously european (at a french restaurant or a NZ supermarket, say). to refer to white wine unambiguously, you say 白葡萄酒：báipùtáojiǔ
@@ -591,5 +639,4 @@
 -	干杯 - gānbēi: cheers! (cf. kanpai!)
 -	祝 - zhù: wish
 -	法国 - fǎguó: France
--
 -	我可以有饭吗
