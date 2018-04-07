@@ -621,7 +621,7 @@
 
 # Lesson 50 (Ce-le-bra-tion!):
 -	A cultural aside about the correct terminology for white wine:
--	generically, 酒 means "wine". for instance, 红酒 means "red wine".
+-	generically, 酒 means "alcohol", and is usually translated as "wine". for instance, 红酒 means "red wine".
 -	白酒, otoh, refers to a certain kind of chinese spirit, unless the context is obviously european (at a french restaurant or a NZ supermarket, say). to refer to white wine unambiguously, you say 白葡萄酒：báipùtáojiǔ
 -	The grammatical structure of the say is a certain use of 就：
 -		SUBJ 一 event A, 就 event B
