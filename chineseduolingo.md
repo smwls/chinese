@@ -619,7 +619,7 @@
 -	别人 - biérén: "other people"
 -	reminder that 会 can mean "has the skill of"
 
-# Lesson 50 (Ce-le-bra-tion!):
+# Lesson 50 (Celebration):
 -	A cultural aside about the correct terminology for white wine:
 -	generically, 酒 means "alcohol", and is usually translated as "wine". for instance, 红酒 means "red wine".
 -	白酒, otoh, refers to a certain kind of chinese spirit, unless the context is obviously european (at a french restaurant or a NZ supermarket, say). to refer to white wine unambiguously, you say 白葡萄酒：báipùtáojiǔ
